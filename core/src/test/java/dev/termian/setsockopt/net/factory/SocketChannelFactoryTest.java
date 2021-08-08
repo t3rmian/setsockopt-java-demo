@@ -5,7 +5,6 @@ import dev.termian.setsockopt.net.config.Configuration;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
-import java.net.Socket;
 import java.nio.channels.SocketChannel;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;

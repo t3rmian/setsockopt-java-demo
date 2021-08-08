@@ -1,4 +1,4 @@
-package dev.termian.setsockopt.net.socket;
+package dev.termian.setsockopt.net.factory;
 
 import com.sun.jna.LastErrorException;
 import dev.termian.setsockopt.net.config.Configuration;

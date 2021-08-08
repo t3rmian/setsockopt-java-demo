@@ -3,7 +3,6 @@ package dev.termian.setsockopt.net.impl;
 import dev.termian.setsockopt.net.config.SocketConfigurer;
 import dev.termian.setsockopt.net.factory.EpollSocketChannelFactory;
 import io.netty.channel.epoll.EpollSocketChannel;
-import io.netty.channel.unix.Socket;
 
 import java.io.IOException;
 
